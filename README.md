@@ -62,6 +62,7 @@ How is this different from the [last Amazon Alexa Pi project](https://github.com
 You can set up this project on the following platforms. Please choose the platform you'd like to set this up on -
 
 * [Raspberry Pi](../../wiki/Raspberry-Pi), or
+* [MATRIX Creator (RaspberryPi hat)](../../wiki/MatrixCreator), or
 * [Linux](../../wiki/Linux), or
 * [Mac](../../wiki/Mac), or
 * [Windows](../../wiki/Windows)
